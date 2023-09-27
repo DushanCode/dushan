@@ -4,7 +4,7 @@ import firebase from './firebase.png';
 import github from './github.png';
 import html from './html.png';
 import js from './javascript.png';
-import logo from './logo.png';
+
 import logo1 from './logo1.png';
 import mongo from './mongo.png';
 import node from './node.png';
@@ -20,7 +20,7 @@ export {
     github,
     html,
     js,
-    logo,
+  
     logo1,
     mongo,
     node,
